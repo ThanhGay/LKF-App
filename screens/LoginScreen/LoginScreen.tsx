@@ -1,7 +1,12 @@
-import {View} from 'react-native';
+import {Text, View} from 'react-native';
+import { UserIcon } from '../../assest/icons';
 
 function LoginScreen() {
-  return <View>Login</View>;
+  return (
+    <View style={{backgroundColor: 'black'}}>
+      <UserIcon />
+    </View>
+  );
 }
 
 export default LoginScreen;
