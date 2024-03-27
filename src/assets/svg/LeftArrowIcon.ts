@@ -1,4 +1,4 @@
-export default () => `
+export default () => {`
   <svg
     width="40"
     height="40"
@@ -22,4 +22,4 @@ export default () => `
       stroke-linejoin="round"
       />
   </svg>
-`;
+`}

@@ -1,4 +1,4 @@
-export default () => `
+export default () => {`
     <svg
       width="29"
       height="28"
@@ -21,4 +21,4 @@ export default () => `
         stroke-dasharray="5.83 5.83"
       />
     </svg>
-`
+`}
